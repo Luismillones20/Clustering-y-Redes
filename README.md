@@ -19,11 +19,3 @@ Este proyecto implementa, evalúa y compara modelos de clustering para agrupar u
    * Implementación de **Mean Shift** para el descubrimiento automático de densidades sin necesidad de predefinir el número de clusters.
 4. **Análisis de Resultados:** Visualización en 2D/3D (mediante reducción de dimensionalidad como PCA) y conclusiones sobre los perfiles de usuario detectados.
 
-## 📂 Estructura del Proyecto
-
-```text
-├── data/               # Carpeta para el dataset MovieLens 100k (no incluido en el repo)
-├── notebooks/          # Jupyter Notebooks con análisis exploratorio (EDA) y experimentación
-├── src/                # Código fuente en Python (preprocesamiento, modelos, métricas)
-├── requirements.txt    # Dependencias del proyecto
-└── README.md           # Documentación del proyecto
